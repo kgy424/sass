@@ -101,6 +101,5 @@
 ![image](https://github.com/kgy424/sass/assets/129706828/f1c36d88-c0b1-457e-9ba9-e1b69e925e73)
 
 # 💖 extend
-
-![image](https://github.com/kgy424/sass/assets/129706828/46065aaa-24a0-41f7-b00c-a46e46f6bb56)
+![image](https://github.com/kgy424/sass/assets/129706828/19ba5cd9-c797-4112-b7b0-bc7eb0b05a85)
 
