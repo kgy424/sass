@@ -73,3 +73,13 @@
 
     ✔️ *(와일드카드) 를 붙이면 이름을 생략할 수 있음.
 ![image](https://github.com/kgy424/react_basic/assets/129706828/0fb9fb10-ef13-496c-b02f-b0d7779a499a)
+
+
+# 💖 전역변수와 지역변수 (basic3)
+
+![image](https://github.com/kgy424/sass/assets/129706828/62185aeb-dfa4-41f5-9afb-c4436eb80676)
+
+# 💖 보간법(basic4)
+
+![image](https://github.com/kgy424/sass/assets/129706828/f997375d-e295-46fd-8d4a-33560fbf8a77)
+
