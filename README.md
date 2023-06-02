@@ -84,20 +84,23 @@
 ![image](https://github.com/kgy424/sass/assets/129706828/f997375d-e295-46fd-8d4a-33560fbf8a77)
 
 
-# &+& (basic5)
+# 💖 &+& (basic5)
 
 ![image](https://github.com/kgy424/sass/assets/129706828/f2e9842c-4278-41b3-a131-72f547611874)
 
-결과
+    ✔️ 결과
 
 ![image](https://github.com/kgy424/sass/assets/129706828/4393dec0-f6ac-492e-8709-8af87b56c6dd)
 
-# nasting(네스팅) -- 품다
+# 💖 nasting(네스팅) -- 품다
 
 ![image](https://github.com/kgy424/sass/assets/129706828/399a7ce9-b893-483b-923a-d8389a7cf208)
 
-# 함수(basic6)
+# 💖 함수(basic6)
 
-![image](https://github.com/kgy424/sass/assets/129706828/fdb3d00a-2c5f-4ecb-a94a-5b89ed9d51aa)
+![image](https://github.com/kgy424/sass/assets/129706828/f1c36d88-c0b1-457e-9ba9-e1b69e925e73)
 
+# 💖 extend
+
+![image](https://github.com/kgy424/sass/assets/129706828/46065aaa-24a0-41f7-b00c-a46e46f6bb56)
 
