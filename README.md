@@ -102,4 +102,14 @@
 
 # 💖 extend
 ![image](https://github.com/kgy424/sass/assets/129706828/19ba5cd9-c797-4112-b7b0-bc7eb0b05a85)
+![image](https://github.com/kgy424/sass/assets/129706828/475b0c50-a0ba-4b77-9eef-c37e27fbf555)
+![image](https://github.com/kgy424/sass/assets/129706828/c07e9832-7c0b-4655-9ec0-ab0ef658c4e4)
+
+
+# 💖 mixin
+![image](https://github.com/kgy424/sass/assets/129706828/be74e88c-b946-4ca3-9330-fe05aa661dcc)
+![image](https://github.com/kgy424/sass/assets/129706828/5ed6bcac-f5f0-43c0-93a0-02c7b8b6903c)
+![image](https://github.com/kgy424/sass/assets/129706828/6c08a86c-e7c7-47ba-87d2-980fcf5ca9cb)
+
+![image](https://github.com/kgy424/sass/assets/129706828/163f1d53-d02a-416c-8bed-2f58faefd747)
 
