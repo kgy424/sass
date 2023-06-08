@@ -102,14 +102,23 @@
 
 # 💖 extend
 ![image](https://github.com/kgy424/sass/assets/129706828/19ba5cd9-c797-4112-b7b0-bc7eb0b05a85)
+
+### 💞 extend를 함수로 부르기
 ![image](https://github.com/kgy424/sass/assets/129706828/475b0c50-a0ba-4b77-9eef-c37e27fbf555)
+
+### 💞 extend는 같은 값을 각각 주면 ","로 연결해서 css에 해석함.
 ![image](https://github.com/kgy424/sass/assets/129706828/c07e9832-7c0b-4655-9ec0-ab0ef658c4e4)
 
 
-# 💖 mixin
+# 💖 mixin (사스의 꽃)
 ![image](https://github.com/kgy424/sass/assets/129706828/be74e88c-b946-4ca3-9330-fe05aa661dcc)
+
+### 💞 매개변수를 통해 다른 값을 할당할 수 있음. 
 ![image](https://github.com/kgy424/sass/assets/129706828/5ed6bcac-f5f0-43c0-93a0-02c7b8b6903c)
+
+### 💞 공통적인 부분과 추가해야하는 부분을 설정할 수 있음.
 ![image](https://github.com/kgy424/sass/assets/129706828/6c08a86c-e7c7-47ba-87d2-980fcf5ca9cb)
 
+### 💞 클래스 명을 넣어서 바로 부를 수 있음.
 ![image](https://github.com/kgy424/sass/assets/129706828/163f1d53-d02a-416c-8bed-2f58faefd747)
 
