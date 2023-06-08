@@ -109,6 +109,7 @@
 ### 💞 extend는 같은 값을 각각 주면 ","로 연결해서 css에 해석함.
 ![image](https://github.com/kgy424/sass/assets/129706828/c07e9832-7c0b-4655-9ec0-ab0ef658c4e4)
 
+----------------------------------------------------
 
 # 💖 mixin (사스의 꽃)
 ![image](https://github.com/kgy424/sass/assets/129706828/be74e88c-b946-4ca3-9330-fe05aa661dcc)
@@ -121,4 +122,7 @@
 
 ### 💞 클래스 명을 넣어서 바로 부를 수 있음.
 ![image](https://github.com/kgy424/sass/assets/129706828/163f1d53-d02a-416c-8bed-2f58faefd747)
+
+## 💖 mixin에 if 함수
+![image](https://github.com/kgy424/sass/assets/129706828/b6948833-4fe7-4438-8b09-35450409fce7)
 
