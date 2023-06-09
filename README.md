@@ -125,4 +125,37 @@
 
 ## 💖 mixin에 if 함수
 ![image](https://github.com/kgy424/sass/assets/129706828/b6948833-4fe7-4438-8b09-35450409fce7)
+![image](https://github.com/kgy424/sass/assets/129706828/e01f3027-209f-40a5-b15f-8c10c9115bc9)
+
+
+----------------------------------------------------
+
+# 💖 목록형 변수
+
+## 💞 nth함수
+![image](https://github.com/kgy424/sass/assets/129706828/37db7daa-9228-4f5f-b88a-c5b691620bf9)
+
+
+## 💞 @each
+
+![image](https://github.com/kgy424/sass/assets/129706828/cd6df690-d8bf-42b5-a089-e2ee3981227d)
+
+
+# 💖 map형 데이터
+![image](https://github.com/kgy424/sass/assets/129706828/404413da-abab-4b5b-8512-7245b4ffc6ca)
+
+
+## 💞 @mixin 써서 미디어쿼리 넣기
+![image](https://github.com/kgy424/sass/assets/129706828/6dc6190c-81e0-45f8-97d2-a3ca9a391204)
+
+
+
+![image](https://github.com/kgy424/sass/assets/129706828/0976e945-6c29-4d7e-bfa5-7764d84e0429)
+
+
+![image](https://github.com/kgy424/sass/assets/129706828/53fce1f6-7552-4588-b480-7aa069f03e30)
+
+
+
+
 
